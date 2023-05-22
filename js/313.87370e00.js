@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkqwitter"]=globalThis["webpackChunkqwitter"]||[]).push([[313],{9313:(t,e,r)=>{r.r(e),r.d(e,{default:()=>o});var n=r(9835);const a={class:"text-center"};function i(t,e){return(0,n.wg)(),(0,n.iD)("h1",a,"Email Confirmation")}var s=r(1639);const c={},l=(0,s.Z)(c,[["render",i]]),o=l}}]);

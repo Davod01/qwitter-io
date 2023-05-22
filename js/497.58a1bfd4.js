@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkqwitter"]=globalThis["webpackChunkqwitter"]||[]).push([[497],{6497:(e,t,r)=>{r.r(t),r.d(t,{default:()=>h});var s=r(9835);const a={class:"text-center"};function n(e,t){return(0,s.wg)(),(0,s.iD)("h1",a,"Reset Page")}var c=r(1639);const i={},u=(0,c.Z)(i,[["render",n]]),h=u}}]);
